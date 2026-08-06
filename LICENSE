@@ -1,0 +1,40 @@
+Wallpaper Clip Studio Non-Commercial Source License 1.0
+壁纸剪裁 非商用源码许可 1.0
+
+Copyright (c) 2026 Wallpaper Clip Studio Contributors
+
+Grant / 授权
+------------
+English: Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use, copy,
+modify, and redistribute the Software for NON-COMMERCIAL purposes only, subject to
+the following conditions:
+  1. Non-commercial. You may not use the Software, in whole or in part, for any
+     commercial purpose, including selling it, using it in a paid product or
+     service, or monetized content.
+  2. Share-alike. Any redistribution or modified version of the Software must be
+     distributed under this same license.
+  3. Attribution. Redistributions must retain this license and the above copyright
+     notice.
+
+中文：特此免费授予任何获得本软件及相关文档（“本软件”）副本的人，仅为非商用目的
+使用、复制、修改和再分发本软件的权利，但须遵守以下条件：
+  1. 非商用。不得将本软件全部或部分用于任何商业目的，包括销售、用于付费产品或
+     服务、或用于任何盈利性内容。
+  2. 相同许可分享。再分发或修改版本必须采用本相同许可。
+  3. 署名。再分发须保留本许可及上述版权声明。
+
+Reservation / 保留
+------------------
+All commercial rights are expressly reserved by the copyright holder.
+所有商业权利由版权持有人明确保留。
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+本软件按“现状”提供，不作任何形式的保证。
+
+Note on third-party components / 第三方组件说明
+----------------------------------------------
+This license applies only to Wallpaper Clip Studio's own code. Upstream components
+(FFmpeg, x265, RIFE, etc.) are fetched at runtime and remain under their own licenses.
+本许可仅约束壁纸剪裁自有代码；上游组件（FFmpeg、x265、RIFE 等）运行期获取，
+仍遵循各自许可证。

@@ -1,0 +1,41 @@
+# 依赖 / 运行环境
+.venv/
+__pycache__/
+*.pyc
+.build/
+releases/
+tools/
+
+# 开发/测试/发布工具（仅本地，不入公开仓库）
+tests/
+scripts/
+
+# 媒体资产（不入库）
+sources/
+output/
+_work/
+_work2/
+*.mkv
+*.mp4
+*.mov
+*.mpg
+*.ffv1
+*.raw
+*.png
+*.jpg
+*.pgm
+# 但仓库自带截图/效果展示要入库
+!docs/img/*.png
+!docs/img/*.gif
+*.zip
+*.sha256
+*.torrent
+.DS_Store
+
+# 项目产物（成片/中间件）不入库，只保留分析结果与说明
+projects/*/_work/
+projects/*/_work2/
+projects/*/deliverables/
+!projects/*/analysis.json
+!projects/*/README.md
+.claude/
